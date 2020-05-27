@@ -1,6 +1,6 @@
 # Voice-Search-With-JavaScript-web-search-API-
 
-# ScreenShot
+# ScreenShot:
 
 ![](https://github.com/suraj038/Voice-Search-With-JavaScript-web-search-API-/blob/master/image/Screenshot%20(179).png)
 
